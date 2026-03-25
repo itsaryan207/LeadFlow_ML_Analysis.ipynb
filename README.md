@@ -1,5 +1,6 @@
 # LeadFlow_ML_Analysis.ipynb
 LeadFlow-ML is a machine learning-based lead scoring system with a robust preprocessing pipeline and optimized Random Forest model. It handles real-world CRM data, improves prediction accuracy, and provides clear insights to identify high-conversion leads.
+The model was 85% accurate.
 ___________________________________________________________________________________________________________________________
 #LeadFlow-ML is an improved and more practical version of my earlier work on Lead Scoring Analysis. In my initial project, I focused on proving that machine learning can be used to prioritize sales leads effectively. With this version, I’ve taken it a step further by focusing on building something closer to a real-world solution, with better data handling, cleaner architecture, and more reliable performance.
 Based on my experience with predictive models, I designed LeadFlow-ML to handle the challenges that come with actual CRM data—like messy inputs, missing values, and inconsistent scales. I also paid special attention to making the model easier to understand and interpret, not just accurate.
